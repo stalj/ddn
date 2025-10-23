@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLCollection>
+  <Book>
+    <Title language="English" edition="1st">The Art of XML</Title>
+    <Author nationality="American" active="true">Jane Smith</Author>
+    <Publisher country="USA" year="2020">TechPress</Publisher>
+    <Genre type="Technology" audience="Developers">Programming</Genre>
+  </Book>
+
+  <Book>
+    <Title language="English" edition="2nd">XML for Beginners</Title>
+    <Author nationality="British" active="true">John Doe</Author>
+    <Publisher country="UK" year="2021">LearnFast</Publisher>
+    <Genre type="Education" audience="Students">Tutorial</Genre>
+  </Book>
+
+  <Book>
+    <Title language="French" edition="1st">XML Avancé</Title>
+    <Author nationality="French" active="false">Marie Dupont</Author>
+    <Publisher country="France" year="2019">InfoLivre</Publisher>
+    <Genre type="Technology" audience="Professionals">Reference</Genre>
+  </Book>
+
+  <Book>
+    <Title language="Spanish" edition="3rd">Guía XML</Title>
+    <Author nationality="Spanish" active="true">Carlos Rivera</Author>
+    <Publisher country="Spain" year="2022">EditoraTech</Publisher>
+    <Genre type="Technology" audience="Students">Guide</Genre>
+  </Book>
+
+  <Book>
+    <Title language="German" edition="1st">XML Grundlagen</Title>
+    <Author nationality="German" active="true">Anna Müller</Author>
+    <Publisher country="Germany" year="2018">VerlagInfo</Publisher>
+    <Genre type="Education" audience="Developers">Textbook</Genre>
+  </Book>
+
+  <Book>
+    <Title language="Japanese" edition="2nd">XMLの世界</Title>
+    <Author nationality="Japanese" active="false">Kenji Takahashi</Author>
+    <Publisher country="Japan" year="2023">NihonPress</Publisher>
+    <Genre type="Technology" audience="Researchers">Manual</Genre>
+  </Book>
+</XMLCollection>
