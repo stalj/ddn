@@ -1,0 +1,9 @@
+[
+    {
+        "name":"Bilet",
+        "ligitymacja studencka": true,
+        "Data zakupu": "20-10-2025",
+        "udogadnienia": ["","",""],
+        "miejsce siedzące": true
+    }
+]

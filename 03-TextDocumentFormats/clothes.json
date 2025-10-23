@@ -53,5 +53,12 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name":"CCC",
+        "founded": 1999,
+        "employees":57000,
+        "headquarters": "Polkowice, Poland",
+        "products":["Footwear","Accessories"]
     }
 ]
